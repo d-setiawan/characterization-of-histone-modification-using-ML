@@ -1,4 +1,4 @@
-# Characterization-of-histone-modification-using-ML
+# Characterization-of-Histone-Modification-Using-ML
 All necessary materials and methods for the characterization of histone modifications for an undergraduate thesis
 
 ## Code
