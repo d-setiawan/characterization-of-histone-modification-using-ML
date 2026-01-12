@@ -43,7 +43,6 @@ source "$CONFIG"
 # Required config variables
 : "${THREADS:?Missing THREADS in config}"
 : "${GENOME_INDEX:?Missing GENOME_INDEX in config}"
-: "${CHROMSIZES:?Missing CHROMSIZES in config}"
 : "${REGIONS_BED:?Missing REGIONS_BED in config}"
 
 # Optional config with defaults
