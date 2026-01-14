@@ -1,2 +1,5 @@
 # Exclude notebooks from language statistics
-*.ipynb linguist-vendored
+code/JupyterNotebooks/*.ipynb linguist-vendored
+*.sh linguist-language=Shell
+*.py linguist-language=Python
+
